@@ -1,49 +1,36 @@
-# SeniorCppDeveloper
+# ⚙️ SeniorCppDeveloper
 
-C++ разработчик из Москвы. Пишу системный код, копаюсь в сетях, иногда балуюсь Python и PHP.
-
----
-
-## Чем занят сейчас
-
-Последние пару недель активно кодил:
-
-- **Console-messanger** — консольный мессенджер на C++. Недавно обновлял, допиливаю функционал.
-- **dota-mini-game** — накатал мини-игру на Python, чисто для фана.
-- **Trojan-horse** — исследовательский пет-проект, разбираюсь в теме безопасности.
-
-Активность в репозиториях есть, коммиты свежие — видно по датам.
+C++ разработчик | Системное программирование | Сети | Безопасность
 
 ---
 
-## Что вообще тут есть
+## 🛠️ Стек
 
-| Проект | Язык | О чём |
-|--------|------|-------|
-| Console-messanger | C++ | Мессенджер в терминале |
-| dota-mini-game | Python | Игрушка в стиле Dota |
-| Income-and-Expense-Manager | C++ | Учёт доходов/расходов |
-| Trojan-horse | C++ | Безопасность, исследование |
-| SPACE-CHAT | PHP | Веб-чат |
-| Network-Packet-Analyzer- | C++ | Анализ сетевых пакетов |
-| CompleteCustomDatabase | C++ | Самописная БД |
-| Calorie-Tracker-Pro | C++ | Трекер калорий |
-| fishingtdata | Python | Что-то с данными, гляну позже |
-| TLPUR | C++ | Тоже посмотрю |
-| Cs2CheatCpp / Cs2CHEATpy | C++ / Python | Игровые механики и защита |
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Стек, который юзаю
+## 📂 Проекты
 
-- C / C++ — основа, с этим работаю чаще всего.
-- Python — для скриптов и быстрых прототипов.
-- PHP — редко, но бывает.
-- Linux, Git, CMake — стандартный набор.
+| Проект | Язык | Что делает |
+|--------|------|------------|
+| [Console-messanger](https://github.com/SeniorCppDeveloper/Console-messanger) | C++ | Консольный мессенджер |
+| [dota-mini-game](https://github.com/SeniorCppDeveloper/dota-mini-game) | Python | Игрушка в стиле Dota |
+| [Income-and-Expense-Manager](https://github.com/SeniorCppDeveloper/Income-and-Expense-Manager) | C++ | Учёт доходов/расходов |
+| [Trojan-horse](https://github.com/SeniorCppDeveloper/Trojan-horse) | C++ | Исследование безопасности |
+| [SPACE-CHAT](https://github.com/SeniorCppDeveloper/SPACE-CHAT) | PHP | Веб-чат |
+| [Network-Packet-Analyzer-](https://github.com/SeniorCppDeveloper/Network-Packet-Analyzer-) | C++ | Анализатор трафика |
+| [CompleteCustomDatabase](https://github.com/SeniorCppDeveloper/CompleteCustomDatabase) | C++ | Самописная БД |
+| [Calorie-Tracker-Pro](https://github.com/SeniorCppDeveloper/Calorie-Tracker-Pro) | C++ | Трекер калорий |
+| [Cs2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) / [Cs2CHEATpy](https://github.com/SeniorCppDeveloper/Cs2CHEATpy) | C++ / Python | Игровые механики CS2 |
 
 ---
 
-## Статистика
+## 📊 Статистика
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeniorCppDeveloper&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
@@ -52,10 +39,17 @@ C++ разработчик из Москвы. Пишу системный код
 
 ---
 
-## Контакты
+## 🌐 Контакты
 
-[Telegram](https://t.me/your_username) · [Почта](mailto:your@email.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
-> Код должен работать. А если падает — значит, есть что пофиксить.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeniorCppDeveloper&label=👁️+Просмотров&color=blueviolet&style=flat" />
+</div>
+
+---
+
+> *"Code that runs fast and doesn't crash (almost always)."* — SeniorCppDeveloper
