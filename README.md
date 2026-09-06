@@ -32,7 +32,7 @@ C++ разработчик | Системное программирование
 | [Calorie-Tracker-Pro](https://github.com/SeniorCppDeveloper/Calorie-Tracker-Pro) | C++ | Трекер калорий |
 | [Cs2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) / [Cs2CHEATpy](https://github.com/SeniorCppDeveloper/Cs2CHEATpy) | C++ / Python | Игровые механики CS2 |
 | [VPN](https://github.com/SeniorCppDeveloper/VPN) | C++ / OpenVPN | VPN-клиент для ПК |
-| [VPN](https://github.com/SeniorCppDeveloper/fishingtdata) | C++ | Кража данных Telegram |
+| [fishingtdata](https://github.com/SeniorCppDeveloper/fishingtdata) | C++ | Кража данных Telegram |
 
 ---
 
