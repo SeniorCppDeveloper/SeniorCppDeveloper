@@ -8,7 +8,7 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 🛠️ Стек
+##  Стек
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 📂 Проекты
+##  Проекты
 
 | Проект | Язык | Что делает |
 |--------|------|------------|
@@ -37,7 +37,7 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 📊 Статистика
+##  Статистика
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeniorCppDeveloper&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
@@ -50,24 +50,24 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 🏅 Лучший репозиторий
+##  Лучший репозиторий
 
 <div align="center">
 
-### ⭐ [CS2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) — 21 звезда!
+###  [CS2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) — 20+ звезд!
 
 [![GitHub stars](https://img.shields.io/github/stars/SeniorCppDeveloper/Cs2CheatCpp?style=for-the-badge&logo=github&color=ffd700)](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
 [![GitHub forks](https://img.shields.io/github/forks/SeniorCppDeveloper/Cs2CheatCpp?style=for-the-badge&logo=github&color=blue)](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
 
-**Самый популярный проект автора**  
+**Самый популярный проект**  
 *ЧИТ Counter-Strike 2 на C++*
 
-![CS2](https://img.shields.io/badge/CS2-🔫-yellow?style=flat-square)
-![C++](https://img.shields.io/badge/C++-⚡-00599C?style=flat-square)
+![CS2](https://img.shields.io/badge/CS2--yellow?style=flat-square)
+![C++](https://img.shields.io/badge/C++--00599C?style=flat-square)
 
 </div>
 
-## 📈 Активность
+##  Активность
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorCppDeveloper&theme=radical" />
@@ -75,7 +75,7 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 👁️ Просмотры
+##  Просмотры
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SeniorCppDeveloper&label=👁️+ПРОСМОТРОВ&color=blueviolet&style=for-the-badge" />
@@ -83,7 +83,7 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 🌐 Контакты
+##  Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SeniorCppDevel0per)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vdmozharov11@gmail.com)
