@@ -31,7 +31,7 @@ C++ разработчик | Системное программирование
 | [CompleteCustomDatabase](https://github.com/SeniorCppDeveloper/CompleteCustomDatabase) | C++ | Самописная БД |
 | [Calorie-Tracker-Pro](https://github.com/SeniorCppDeveloper/Calorie-Tracker-Pro) | C++ | Трекер калорий |
 | [Cs2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) / [Cs2CHEATpy](https://github.com/SeniorCppDeveloper/Cs2CHEATpy) | C++ / Python | Игровые механики CS2 |
-| [VPN-for-PC](https://github.com/SeniorCppDeveloper/VPN-for-PC) | C++ / OpenVPN | VPN-клиент для ПК (шифрование, TUN/TAP, kill-switch) |
+| [VPN-for-PC](https://github.com/SeniorCppDeveloper/VPN) | C++ / OpenVPN | VPN-клиент для ПК |
 
 ---
 
