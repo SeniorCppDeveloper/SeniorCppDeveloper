@@ -1,4 +1,4 @@
-# ⚙️ SeniorCppDeveloper
+# 👋 Senior C++ Developer
 
 C++ разработчик | Системное программирование | Сети | Безопасность
 
@@ -33,18 +33,25 @@ C++ разработчик | Системное программирование
 ## 📊 Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeniorCppDeveloper&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorCppDeveloper&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeniorCppDeveloper&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorCppDeveloper&layout=compact&theme=radical&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCppDeveloper&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-## 🌐 Контакты
+## 📈 Активность
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorCppDeveloper&theme=radical" />
+</div>
 
 ---
+
+## 👁️ Просмотры профиля
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SeniorCppDeveloper&label=👁️+Просмотров&color=blueviolet&style=flat" />
@@ -52,4 +59,11 @@ C++ разработчик | Системное программирование
 
 ---
 
-> *"Code that runs fast and doesn't crash (almost always)."* — SeniorCppDeveloper
+## 🌐 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SeniorCppDevel0per)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vdmozharov11@gmail.com)
+
+---
+
+> *"Code that runs fast and doesn't crash (almost always)."*
