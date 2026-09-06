@@ -78,7 +78,7 @@ C++ разработчик | Системное программирование
 ##  Просмотры
 
 <div align="center">
-  <img src="2309&label=👁️+ПРОСМОТРОВ&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SeniorCppDeveloper&label=👁️+ПРОСМОТРОВ&color=blueviolet&style=for-the-badge" />
 </div>
 
 ---
