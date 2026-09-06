@@ -1,4 +1,6 @@
-# 👋 Senior C++ Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Senior+C%2B%2B+Developer;System+Software+Engineer;Network+%26+Security+Expert" alt="Typing SVG" />
+</div>
 
 C++ разработчик | Системное программирование | Сети | Безопасность
 
