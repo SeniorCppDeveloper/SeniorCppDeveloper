@@ -50,6 +50,23 @@ C++ разработчик | Системное программирование
 
 ---
 
+## 🏅 Гордость репозитория
+
+<div align="center">
+
+### ⭐ [CS2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) — 21 звезда!
+
+[![GitHub stars](https://img.shields.io/github/stars/SeniorCppDeveloper/Cs2CheatCpp?style=for-the-badge&logo=github&color=ffd700)](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
+[![GitHub forks](https://img.shields.io/github/forks/SeniorCppDeveloper/Cs2CheatCpp?style=for-the-badge&logo=github&color=blue)](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
+
+**Самый популярный проект автора**  
+*Исследование игровых механик Counter-Strike 2 на C++*
+
+![CS2](https://img.shields.io/badge/CS2-🔫-yellow?style=flat-square)
+![C++](https://img.shields.io/badge/C++-⚡-00599C?style=flat-square)
+
+</div>
+
 ## 📈 Активность
 
 <div align="center">
