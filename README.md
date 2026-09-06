@@ -30,7 +30,7 @@ C++ разработчик | Системное программирование
 | [Network-Packet-Analyzer-](https://github.com/SeniorCppDeveloper/Network-Packet-Analyzer-) | C++ | Анализатор трафика |
 | [CompleteCustomDatabase](https://github.com/SeniorCppDeveloper/CompleteCustomDatabase) | C++ | Самописная БД |
 | [Calorie-Tracker-Pro](https://github.com/SeniorCppDeveloper/Calorie-Tracker-Pro) | C++ | Трекер калорий |
-| [Cs2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) / [Cs2CHEATpy](https://github.com/SeniorCppDeveloper/Cs2CHEATpy) | C++ / Python | Игровые механики CS2 |
+| [Cs2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) / [Cs2CHEATpy](https://github.com/SeniorCppDeveloper/Cs2CHEATpy) | C++ / Python | ЧИТЫ CS2 |
 | [VPN](https://github.com/SeniorCppDeveloper/VPN) | C++ / OpenVPN | VPN-клиент для ПК |
 | [fishingtdata](https://github.com/SeniorCppDeveloper/fishingtdata) | C++ | Кража данных Telegram |
 | [SearchBrowser](https://github.com/SeniorCppDeveloper/SearchBrowser) | C++ | Поисковой Браузер |
@@ -50,7 +50,7 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 🏅 Гордость репозитория
+## 🏅 Лучший репозиторий
 
 <div align="center">
 
@@ -60,7 +60,7 @@ C++ разработчик | Системное программирование
 [![GitHub forks](https://img.shields.io/github/forks/SeniorCppDeveloper/Cs2CheatCpp?style=for-the-badge&logo=github&color=blue)](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
 
 **Самый популярный проект автора**  
-*Исследование игровых механик Counter-Strike 2 на C++*
+*ЧИТ Counter-Strike 2 на C++*
 
 ![CS2](https://img.shields.io/badge/CS2-🔫-yellow?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-⚡-00599C?style=flat-square)
