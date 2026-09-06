@@ -62,8 +62,8 @@ C++ разработчик | Системное программирование
 **Самый популярный проект**  
 *ЧИТ Counter-Strike 2 на C++*
 
-![CS2](https://img.shields.io/badge/CS2--yellow?style=flat-square)
-![C++](https://img.shields.io/badge/C++--00599C?style=flat-square)
+![CS2](https://img.shields.io/badge/CS2-👁️-yellow?style=flat-square)
+![C++](https://img.shields.io/badge/C++-👁️-00599C?style=flat-square)
 
 </div>
 
