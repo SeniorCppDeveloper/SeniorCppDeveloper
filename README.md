@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Senior+C%2B%2B+Developer;System+Software+Engineer;Network+%26+Security+Expert" alt="Typing SVG" />
 </div>
 
+# Senior C++ Developer
+
 C++ разработчик | Системное программирование | Сети | Безопасность
 
 ---
@@ -53,10 +55,8 @@ C++ разработчик | Системное программирование
 
 ---
 
-## 👁️ Просмотры профиля
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeniorCppDeveloper&label=👁️+Просмотров&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SeniorCppDeveloper&label=👁️+ПРОСМОТРОВ&color=blueviolet&style=for-the-badge" />
 </div>
 
 ---
