@@ -63,7 +63,7 @@ C++ разработчик | Системное программирование
 *CHEAT Counter-Strike 2 C++*
 
 ![CS2](https://img.shields.io/badge/CS2-🔫-yellow?style=flat-square)
-![C++](https://img.shields.io/badge/C++-🔫-00599C?style=flat-square)
+![C++](https://img.shields.io/badge/C++-⚡-00599C?style=flat-square)
 
 </div>
 
