@@ -54,7 +54,7 @@ C++ разработчик | Системное программирование
 
 <div align="center">
 
-###  [CS2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp) — 100+ звезд!
+###  [CS2CheatCpp](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
 
 [![GitHub stars](https://img.shields.io/github/stars/SeniorCppDeveloper/Cs2CheatCpp?style=for-the-badge&logo=github&color=ffd700)](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
 [![GitHub forks](https://img.shields.io/github/forks/SeniorCppDeveloper/Cs2CheatCpp?style=for-the-badge&logo=github&color=blue)](https://github.com/SeniorCppDeveloper/Cs2CheatCpp)
