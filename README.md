@@ -107,7 +107,6 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF0000)](https://t.me/SeniorCppDevel0per)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:vdmozharov11@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000)](https://discord.com/users/wwhh0o)
 
 </div>
