@@ -5,12 +5,12 @@
 <h1 align="center">Senior C++ Developer</h1>
 
 <p align="center">
-  <b>C++ разработчик</b> | Системное программирование | Сети | Безопасность | Реверс-инжиниринг | Низкоуровневая оптимизация
+  <b>C++ Developer</b> | System Programming | Networking | Security | Reverse Engineering | Low-Level Optimization
 </p>
 
 ---
 
-<h2 align="center">Стек</h2>
+<h2 align="center">Stack</h2>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000)
 ![C++20](https://img.shields.io/badge/C++20-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FF0000)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=FF0000)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=FF0000)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FF0000)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000)
@@ -29,13 +29,13 @@
 
 ---
 
-<h2 align="center">Системы и платформы</h2>
+<h2 align="center">Systems & Platforms</h2>
 
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000)
 ![Kernel](https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=FF0000)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FF0000)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=FF0000)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=FF0000)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000)
 ![QEMU](https://img.shields.io/badge/QEMU-000000?style=for-the-badge&logo=qemu&logoColor=FF0000)
@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center">Сети и безопасность</h2>
+<h2 align="center">Networking & Security</h2>
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="center">Инструменты разработки</h2>
+<h2 align="center">Development Tools</h2>
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-<h2 align="center">Активность</h2>
+<h2 align="center">Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeniorCppDeveloper&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000" />
@@ -94,7 +94,7 @@
 
 ---
 
-<h2 align="center">Просмотры</h2>
+<h2 align="center">Views</h2>
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeniorCppDeveloper&label=VIEWS&labelColor=%23000000&countColor=%23FF0000&style=for-the-badge" alt="Views" />
@@ -102,7 +102,7 @@
 
 ---
 
-<h2 align="center">Контакты</h2>
+<h2 align="center">Contacts</h2>
 
 <div align="center">
 
