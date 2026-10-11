@@ -92,10 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorCppDeveloper&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FF0000" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SeniorCppDeveloper/SeniorCppDeveloper/output/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <h2 align="center">Просмотры</h2>
