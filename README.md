@@ -81,19 +81,19 @@
 <h2 align="center">Активность</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorCppDeveloper&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeniorCppDeveloper&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeniorCppDeveloper&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000&border_color=FF0000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCppDeveloper&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FF0000&sideNums=FF0000&dates=FF0000&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCppDeveloper&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FF0000&sideNums=FF0000&dates=FF0000&border=FF0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorCppDeveloper&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FF0000" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorCppDeveloper&layout=compact&bg_color=000000&title_color=FF0000&text_color=FF0000&border_color=FF0000" />
+  <img src="https://raw.githubusercontent.com/SeniorCppDeveloper/SeniorCppDeveloper/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
