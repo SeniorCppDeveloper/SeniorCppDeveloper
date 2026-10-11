@@ -71,8 +71,7 @@ C++ разработчик | Системное программирование
 ## Просмотры
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeniorCppDeveloper&count_bg=%23FF0000&title_bg=%23000000&icon=github.svg&icon_color=%23FF0000&title=VIEWS&edge_flat=false" alt="Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SeniorCppDeveloper.SeniorCppDeveloper&left_color=black&right_color=red&left_text=VISITORS" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeniorCppDeveloper&label=VIEWS&labelColor=%23000000&countColor=%23FF0000&style=for-the-badge" alt="Views" />
 </div>
 
 ---
